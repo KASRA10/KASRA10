@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KASRA10
 - 👀 I’m interested in PROGRAMMIN UI & UX, BACK & FRONT END, GRAPHICAL, WEB DEVELOPER AND DESIGN.
 - 🌱 I’m currently learning CODING AND GRAPHICAL DESIGN.
-- I Uplodes my adobe xd and enythings whith html and css
+- I Uplodes my adobe xd and enythings with html and css.
+- also my youtube is: https://www.youtube.com/channel/UClsSvz_HiBIobg9mzh2M1zQ
 <!---
 KASRA10/KASRA10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
