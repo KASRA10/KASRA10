@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROGRAMMIN UI & UX, BACK & FRONT END, GRAPHICAL, WEB DEVELOPER AND DESIGN.
 - 🌱 I’m currently learning CODING AND GRAPHICAL DESIGN.
 - I Uplodes my adobe xd and enythings with html and css.
-- Adobe Spark banners desihner.
+- Adobe Spark banners designer.
 - also my youtube is: https://www.youtube.com/channel/UClsSvz_HiBIobg9mzh2M1zQ
 - My Website: https://kasra10design.com/
 <!---
