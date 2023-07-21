@@ -13,4 +13,4 @@
 ![Figma](https://github.com/KASRA10/KASRA10/assets/76257704/814a9483-9fe5-42ec-aca9-33398b166a16)
 ![Adobe-XD](https://github.com/KASRA10/KASRA10/assets/76257704/af8c30e7-533a-4384-bf9c-84061bef60b2)
 ![Canva](https://github.com/KASRA10/KASRA10/assets/76257704/4943a16d-be7a-4acd-be6e-e7930ffd227b)
-![wprdpress](https://github.com/KASRA10/KASRA10/assets/76257704/8006545f-5280-41a5-84b0-6e7114ee8f9d)
+![wordpress](https://github.com/KASRA10/KASRA10/assets/76257704/99069188-c508-4238-a148-4d035720079d)
