@@ -17,3 +17,4 @@ Thank You For Visiting!
 ![Canva](https://github.com/KASRA10/KASRA10/assets/76257704/4943a16d-be7a-4acd-be6e-e7930ffd227b)
 ![wordpress](https://github.com/KASRA10/KASRA10/assets/76257704/99069188-c508-4238-a148-4d035720079d)
 ![Python-Icon](https://github.com/KASRA10/KASRA10/assets/76257704/0f38571d-4e82-4b27-8846-5c8bb1f34dad)
+![Git-Icon](https://github.com/KASRA10/KASRA10/assets/76257704/c09f475e-9001-4dcc-9dd1-dfe8f44424b4)
