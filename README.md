@@ -6,9 +6,6 @@
 I Am Kasra Hosseini, And I Am Also Known As "K10" Or "KasraK10" On Social Media. I Was Born In 1994 And Hold A Bachelor's Degree In Information Technology (IT). I Have Some experience in Front-End Web Developing, Utilizing Several Technologies And Programming Language Such As HTML, CSS, , Bootstrap (V4), SCSS, JQuery. Additionally, I Also Work As A Wordpress Administrator. I have required some skills in Help desk and technical support as well.
 Thank You For Visiting!
 
-# My Visual Studio Code Theme:
-[![Custom Button](https://img.shields.io/badge/Go_To_The_Market_Place-khaki)](https://marketplace.visualstudio.com/items?itemName=KasraK10.kasrak10)
-
 # Interests & Skills
 ![HTML](https://github.com/KASRA10/KASRA10/assets/76257704/5da5035e-1c4a-4f4d-9745-b55981e13d74)
 ![CSS](https://github.com/KASRA10/KASRA10/assets/76257704/a274e5d7-66fe-4b7e-8eff-f203d6bf505c)
