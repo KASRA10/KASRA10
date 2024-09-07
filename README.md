@@ -1,17 +1,16 @@
 ![Untitled design](https://github.com/KASRA10/KASRA10/assets/76257704/d93376f8-c970-4535-a84b-723dc1afa92a)
 # Hi Visitors, Developers, And Entrepreneurs 👋
-- ⌨️ I am Junior Developer
+- ⌨️ I am Junior Dart Developer
 - 🔔 I am Beginner 🔜 Pro
 - Hi Visitors, Developers, And Entrepreneurs
-I Am Kasra Hosseini, And I Am Also Known As "K10" Or "KasraK10" On Social Media. I Was Born In 1994 And Hold A Bachelor's Degree In Information Technology (IT). I Have Some experience in Front-End Web Developing, Utilizing Several Technologies And Programming Language Such As HTML, CSS, , Bootstrap (V4), SCSS, JQuery. Additionally, I Also Work As A Wordpress Administrator. I have required some skills in Help desk and technical support as well.
-Thank You For Visiting!
+I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Social Media. I Was Born In 1994 And Hold A Bachelor’s Degree In Information Technology (IT). I Have Some experience in Front-End Web Developing, Utilizing Several Technologies And Programming Language Such As HTML, CSS, , Bootstrap (V4), SCSS, JQuery. Additionally, I Also Work As A WordPress Administrator Which Is my expertise. I Am A Junior Dart Developer At This Moment.
 
 # Interests & Skills
-![HTML](https://github.com/KASRA10/KASRA10/assets/76257704/5da5035e-1c4a-4f4d-9745-b55981e13d74)
-![CSS](https://github.com/KASRA10/KASRA10/assets/76257704/a274e5d7-66fe-4b7e-8eff-f203d6bf505c)
-![scss](https://github.com/KASRA10/KASRA10/assets/76257704/b410d6b5-6200-41b8-960e-96e3966e4b42)
-![Adobe-XD](https://github.com/KASRA10/KASRA10/assets/76257704/af8c30e7-533a-4384-bf9c-84061bef60b2)
-![Canva](https://github.com/KASRA10/KASRA10/assets/76257704/4943a16d-be7a-4acd-be6e-e7930ffd227b)
-![wordpress](https://github.com/KASRA10/KASRA10/assets/76257704/99069188-c508-4238-a148-4d035720079d)
-![Python-Icon](https://github.com/KASRA10/KASRA10/assets/76257704/0f38571d-4e82-4b27-8846-5c8bb1f34dad)
-![Git-Icon](https://github.com/KASRA10/KASRA10/assets/76257704/c09f475e-9001-4dcc-9dd1-dfe8f44424b4)
+I Started Programming And Designing with HTML, CSS. After A While, I Started To Learn JavaScript, Bootstrap, JQuery And Even Python In Order To Be More Active In Front-End Developers. I Started My Career By WordPress CMS. It Is my expertise at current moment. I Am Learning Dart And Flutter. Because I realize That The Market Will Be WIth Mobile Users Rather Than Web In The Future.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,py,git,wordpress,xd)](https://skillicons.dev)
+
+# Specialist/ Expertise
+At This Moment, As I Am A Person Who Really Likes to Improve His Abilities, Knowledge, And Skills In The Field Of Programming. I Found An Interest To Mobile Applications And Found Dart/ Flutter. (I Am A Junior Dart Developer)
+
+[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
