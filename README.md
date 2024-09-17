@@ -8,7 +8,7 @@ I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Socia
 # Interests & Skills
 I Started Programming And Designing with HTML, CSS. After A While, I Started To Learn JavaScript, Bootstrap, JQuery And Even Python In Order To Be More Active In Front-End Developers. I Started My Career By WordPress CMS. It Is my expertise at current moment. I Am Learning Dart And Flutter. Because I realize That The Market Will Be WIth Mobile Users Rather Than Web In The Future.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,py,git,wordpress,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,sass,js,jquery,py,git,wordpress,xd)](https://skillicons.dev)
 
 # Specialist/ Expertise
 At This Moment, As I Am A Person Who Really Likes to Improve His Abilities, Knowledge, And Skills In The Field Of Programming. I Found An Interest To Mobile Applications And Found Dart/ Flutter. (I Am A Junior Dart Developer)
