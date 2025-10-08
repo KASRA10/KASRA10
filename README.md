@@ -1,6 +1,6 @@
 ![K10MainHeader](https://github.com/user-attachments/assets/77515f7c-60d1-4dc1-8020-6e88f625a872)
 # Hi Visitors, Developers, And Entrepreneurs 👋
-- ⌨️ I am A Junior WebMaster | Flutter | .Net Developer 💻
+- ⌨️ I am A Junior WebMaster | Flutter | Dynamics 365 Developer 💻
 - 🔔 I am Beginner 🔜 Pro
   
 Hi Visitors, Developers, And Entrepreneurs
