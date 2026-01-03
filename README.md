@@ -13,4 +13,4 @@ I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Socia
 </a>
 
 # Familiar With
-[![My Skills](https://skillicons.dev/icons?i=windows,md,html,css,bootstrap,sass,js,jquery,py,git,dart,flutter,cs,dotnet,vscode,wordpress,postman,xd,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,md,html,css,bootstrap,sass,js,jquery,py,git,dart,flutter,cs,dotnet,vscode,wordpress,postman,xd,figma)](https://skillicons.dev)
