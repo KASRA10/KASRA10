@@ -12,5 +12,5 @@ I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Socia
   <img src="https://img.shields.io/badge/My%20VS%20Code%20Theme-Visit%20Now-blue?style=for-the-badge&logo=visual-studio" alt="Visit My VS Code Theme">
 </a>
 
-# Familiar With
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,md,html,css,bootstrap,sass,js,jquery,py,git,dart,flutter,cs,dotnet,vscode,wordpress,postman,xd,figma)](https://skillicons.dev)
+# Technologies I'm Familiar With
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,powershell,md,html,css,bootstrap,sass,js,jquery,py,git,dart,flutter,cs,dotnet,vscode,wordpress,postman,xd,figma)](https://skillicons.dev)
