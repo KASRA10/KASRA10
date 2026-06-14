@@ -14,3 +14,29 @@ I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Socia
 
 # Technologies I'm Familiar With
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,powershell,md,html,css,bootstrap,sass,js,jquery,py,git,dart,flutter,cs,dotnet,vscode,wordpress,postman,xd,figma)](https://skillicons.dev)
+
+# New Feature Of Kasra Hosseini Discovery
+
+## New Digital Creator | MotoVlog, English Learning Vlog On Youtube
+
+<img width="800" height="200" alt="GithubDigitalCreatorOfK10" src="https://github.com/user-attachments/assets/6f8989f7-7563-4df8-8feb-57b1a2474b4d" />
+
+🏍️ K10 Club | Motovlogger & English Teacher on the Road
+
+Hey riders! Welcome to K10 Club.
+
+I’m a passionate motorcyclist who loves riding, exploring new roads, and capturing real-life adventures. On this channel, you’ll find authentic motovlogs, Weekly rides, long tours, and the real ups and downs of motorcycle life.
+
+**I Was/ Am A Middle Programmer Who Loves Riding And Try To Be Positive/ Happy And Be A Digital Creator As Well.**
+
+Along with the vlogs, I teach practical English — speaking, vocabulary, listening, and everyday conversations — while riding and exploring. Learn English the fun way… on two wheels! 🚀
+
+If you love motorcycles, travel, adventure, and want to improve your English at the same time, you’re in the right place.
+
+✅ Weekly new videos 
+✅ Real Motovlogs + English Lessons 
+✅ Ride Safe & Speak English
+
+Join the club On Youtube and ride with me! 🏍️
+
+🎥 YouTube: https://www.youtube.com/@K10Club
