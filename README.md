@@ -19,7 +19,7 @@ I Am Kasra Hosseini, And I Am Also Known As “K10” Or “KasraK10” On Socia
 
 ## New Digital Creator | MotoVlog, English Learning Vlog On Youtube
 
-<img width="800" height="200" alt="GithubDigitalCreatorOfK10" src="https://github.com/user-attachments/assets/6f8989f7-7563-4df8-8feb-57b1a2474b4d" />
+<img width="1500" height="300" alt="GithubDigitalCreatorOfK10" src="https://github.com/user-attachments/assets/6f8989f7-7563-4df8-8feb-57b1a2474b4d" />
 
 🏍️ K10 Club | Motovlogger & English Teacher on the Road
 
